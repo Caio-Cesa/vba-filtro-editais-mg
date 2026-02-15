@@ -45,6 +45,7 @@ Apesar de o projeto estar **finalizado e funcional**, sua continuidade foi inter
 ## 📌 Observações
 
 - O código foi usado em ambiente real, com foco em eficiência e redução de erros humanos.
+- Este script foi desenvolvido para o padrão de editais de 2022. Com a implementação da LGPD, os dados de CPF foram mascarados nos editais recentes, alterando a forma de extração.
 - Este projeto é de uso educacional e não deve ser comercializado sem autorização do autor.
 
 ---
